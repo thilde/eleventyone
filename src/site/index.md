@@ -30,5 +30,7 @@ The pages found in in the posts
 {%- endfor -%}
 </ul>
 
+<!-- Start Square Appointments Embed Code --><script src='https://squareup.com/appointments/buyer/widget/sm5czh2xix7fy8/LSEERDAVDN1GS.js'></script><!-- End Square Appointments Embed Code -->
+
 
 
