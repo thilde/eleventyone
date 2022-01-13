@@ -49,4 +49,5 @@ display: inline-block;
 " href="https://squareup.com/appointments/book/0n2h21al9pbhvi/LSEERDAVDN1GS/start" rel="nofollow">Book Lesson</a>
 <!-- End Square Appointments Embed code -->
 
+<!-- Start Square Appointments Embed code --><a style=" background-color: #006aff; color: white; height: 40px; text-transform: uppercase; font-family: 'Square Market', 'helvetica neue', helvetica, arial, sans-serif; letter-spacing: 1px; line-height: 38px; padding: 0 28px; border-radius: 3px; font-weight: 500; font-size: 14px; cursor: pointer; display: inline-block; " href="https://squareup.com/appointments/buyer/widget/3pqy45boib3wpz/LSEERDAVDN1GS">Book an Appointment</a><!-- End Square Appointments Embed code -->
 
