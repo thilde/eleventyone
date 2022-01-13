@@ -1,4 +1,4 @@
----
+ ---
 title: EleventyOne
 subtitle: A project scaffold for getting building with Eleventy quickly.
 layout: layouts/base.njk
@@ -29,5 +29,24 @@ The pages found in in the posts
   </li>
 {%- endfor -%}
 </ul>
+
+<!-- Start Square Appointments Embed code -->
+<a target="_top" style="
+background-color: transparent;
+border: 2px solid #7e18d7;
+color: #7e18d7;
+height: 40px;
+text-transform: uppercase;
+font-family: 'Square Market', sans-serif;
+letter-spacing: 1px;
+line-height: 38px;
+padding: 0 28px;
+border-radius: 0;
+font-weight: 500;
+font-size: 14px;
+cursor: pointer;
+display: inline-block;
+" href="https://squareup.com/appointments/book/0n2h21al9pbhvi/LSEERDAVDN1GS/start" rel="nofollow">Book Lesson</a>
+<!-- End Square Appointments Embed code -->
 
 
